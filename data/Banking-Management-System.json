@@ -1,0 +1,533 @@
+{
+  "Region": [
+    {
+      "Region_Id": "MMR010",
+      "Region_Eng_Name": "Mandalay",
+      "Region_MMR_Name": "မန္တလေးတိုင်းဒေသကြီး"
+    }
+  ],
+  "District": [
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D001",
+      "District_Eng_Name": "Mandalay",
+      "District_MMR_Name": "မန္တလေးခရိုင်"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D002",
+      "District_Eng_Name": "Pyinoolwin",
+      "District_MMR_Name": "ပြင်ဦးလွင်ခရိုင်"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D003",
+      "District_Eng_Name": "Kyaukse",
+      "District_MMR_Name": "ကျောက်ဆည်ခရိုင်"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D004",
+      "District_Eng_Name": "Myingyan",
+      "District_MMR_Name": "မြင်းခြံခရိုင်"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D005",
+      "District_Eng_Name": "Nyaung-U",
+      "District_MMR_Name": "ညောင်ဦးခရိုင်"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D006",
+      "District_Eng_Name": "Yamethin",
+      "District_MMR_Name": "ရမည်းသင်းခရိုင်"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D007",
+      "District_Eng_Name": "Meiktila",
+      "District_MMR_Name": "မိတ္ထီလာခရိုင်"
+    }
+  ],
+  "TownShip": [
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D001",
+      "Township_Id": "MMR010001",
+      "Township_Eng_Name": "Aungmyaythazan",
+      "Township_MMR_Name": "အောင်မြေသာစံ"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D001",
+      "Township_Id": "MMR010002",
+      "Township_Eng_Name": "Chanayethazan",
+      "Township_MMR_Name": "ချမ်းအေးသာစံ"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D001",
+      "Township_Id": "MMR010003",
+      "Township_Eng_Name": "Mahaaungmyay",
+      "Township_MMR_Name": "မဟာအောင်မြေ"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D001",
+      "Township_Id": "MMR010004",
+      "Township_Eng_Name": "Chanmyathazi",
+      "Township_MMR_Name": "ချမ်းမြသာစည်"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D001",
+      "Township_Id": "MMR010005",
+      "Township_Eng_Name": "Pyigyitagon",
+      "Township_MMR_Name": "ပြည်ကြီးတံခွန်"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D001",
+      "Township_Id": "MMR010006",
+      "Township_Eng_Name": "Amarapura",
+      "Township_MMR_Name": "အမရပူရ"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D001",
+      "Township_Id": "MMR010007",
+      "Township_Eng_Name": "Patheingyi",
+      "Township_MMR_Name": "ပုသိမ်ကြီး"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D002",
+      "Township_Id": "MMR010008",
+      "Township_Eng_Name": "Pyinoolwin",
+      "Township_MMR_Name": "ပြင်ဦးလွင်"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D002",
+      "Township_Id": "MMR010009",
+      "Township_Eng_Name": "Madaya",
+      "Township_MMR_Name": "မတ္တရာ"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D002",
+      "Township_Id": "MMR010010",
+      "Township_Eng_Name": "Singu",
+      "Township_MMR_Name": "စဉ့်ကူး"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D002",
+      "Township_Id": "MMR010011",
+      "Township_Eng_Name": "Mogoke",
+      "Township_MMR_Name": "မိုးကုတ်"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D002",
+      "Township_Id": "MMR010012",
+      "Township_Eng_Name": "Thabeikkyin",
+      "Township_MMR_Name": "သပိတ်ကျင်း"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D003",
+      "Township_Id": "MMR010013",
+      "Township_Eng_Name": "Kyaukse",
+      "Township_MMR_Name": "ကျောက်ဆည်"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D003",
+      "Township_Id": "MMR010014",
+      "Township_Eng_Name": "Sintgaing",
+      "Township_MMR_Name": "စဉ့်ကိုင်"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D003",
+      "Township_Id": "MMR010015",
+      "Township_Eng_Name": "Myittha",
+      "Township_MMR_Name": "မြစ်သား"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D003",
+      "Township_Id": "MMR010016",
+      "Township_Eng_Name": "Tada-U",
+      "Township_MMR_Name": "တံတားဦး"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D004",
+      "Township_Id": "MMR010017",
+      "Township_Eng_Name": "Myingyan",
+      "Township_MMR_Name": "မြင်းခြံ"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D004",
+      "Township_Id": "MMR010018",
+      "Township_Eng_Name": "Taungtha",
+      "Township_MMR_Name": "တောင်သာ"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D004",
+      "Township_Id": "MMR010019",
+      "Township_Eng_Name": "Natogyi",
+      "Township_MMR_Name": "နွားထိုးကြီး"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D005",
+      "Township_Id": "MMR010020",
+      "Township_Eng_Name": "Kyaukpadaung",
+      "Township_MMR_Name": "ကျောက်ပန်းတောင်း"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D004",
+      "Township_Id": "MMR010021",
+      "Township_Eng_Name": "Ngazun",
+      "Township_MMR_Name": "ငါန်းဇွန်"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D005",
+      "Township_Id": "MMR010022",
+      "Township_Eng_Name": "Nyaung-U",
+      "Township_MMR_Name": "ညောင်ဦး"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D006",
+      "Township_Id": "MMR010023",
+      "Township_Eng_Name": "Yamethin",
+      "Township_MMR_Name": "ရမည်းသင်း"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D006",
+      "Township_Id": "MMR010024",
+      "Township_Eng_Name": "Pyawbwe",
+      "Township_MMR_Name": "ပျော်ဘွယ်"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D007",
+      "Township_Id": "MMR010028",
+      "Township_Eng_Name": "Meiktila",
+      "Township_MMR_Name": "မိတ္ထီလာ"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D007",
+      "Township_Id": "MMR010029",
+      "Township_Eng_Name": "Mahlaing",
+      "Township_MMR_Name": "မလှိုင်"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D007",
+      "Township_Id": "MMR010030",
+      "Township_Eng_Name": "Thazi",
+      "Township_MMR_Name": "သာစည်"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D007",
+      "Township_Id": "MMR010031",
+      "Township_Eng_Name": "Wundwin",
+      "Township_MMR_Name": "ဝမ်းတွင်း"
+    }
+  ],
+  "Town": [
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D001",
+      "Township_Id": "MMR010001",
+      "Town_Id": "MMR010000777",
+      "Town_Eng_Name": "Mandalay City",
+      "Town_MMR_Name": "မန္တလေး"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D001",
+      "Township_Id": "MMR010001",
+      "Town_Id": "MMR010001701",
+      "Town_Eng_Name": "Aungmyaythazan Town",
+      "Town_MMR_Name": "အောင်မြေသာဇံ"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D001",
+      "Township_Id": "MMR010002",
+      "Town_Id": "MMR010002701",
+      "Town_Eng_Name": "Chanayethazan Town",
+      "Town_MMR_Name": "ချမ်းအေးသာဇံ"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D001",
+      "Township_Id": "MMR010003",
+      "Town_Id": "MMR010003701",
+      "Town_Eng_Name": "Mahaaungmyay Town",
+      "Town_MMR_Name": "မဟာအောင်မြေ"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D001",
+      "Township_Id": "MMR010004",
+      "Town_Id": "MMR010004701",
+      "Town_Eng_Name": "Chanmyathazi Town",
+      "Town_MMR_Name": "ချမ်းမြသာစည်"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D001",
+      "Township_Id": "MMR010005",
+      "Town_Id": "MMR010005701",
+      "Town_Eng_Name": "Pyigyitagon Town",
+      "Town_MMR_Name": "ပြည်ကြီးတံခွန်"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D001",
+      "Township_Id": "MMR010006",
+      "Town_Id": "MMR010006702",
+      "Town_Eng_Name": "Myitnge Town",
+      "Town_MMR_Name": "မြစ်ငယ်"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D001",
+      "Township_Id": "MMR010006",
+      "Town_Id": "MMR010006701",
+      "Town_Eng_Name": "Amarapura Town",
+      "Town_MMR_Name": "အမရပူရ"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D001",
+      "Township_Id": "MMR010007",
+      "Town_Id": "MMR010007701",
+      "Town_Eng_Name": "Patheingyi Town",
+      "Town_MMR_Name": "ပုသိမ်ကြီး"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D002",
+      "Township_Id": "MMR010008",
+      "Town_Id": "MMR010008701",
+      "Town_Eng_Name": "Pyinoolwin Town",
+      "Town_MMR_Name": "ပြင်ဦးလွင်"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D002",
+      "Township_Id": "MMR010009",
+      "Town_Id": "MMR010009701",
+      "Town_Eng_Name": "Madaya Town",
+      "Town_MMR_Name": "မတ္တရာ"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D002",
+      "Township_Id": "MMR010010",
+      "Town_Id": "MMR010010701",
+      "Town_Eng_Name": "Singu Town",
+      "Town_MMR_Name": "စဉ့်ကူး"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D002",
+      "Township_Id": "MMR010011",
+      "Town_Id": "MMR010011701",
+      "Town_Eng_Name": "Mogoke Town",
+      "Town_MMR_Name": "မိုးကုတ်"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D002",
+      "Township_Id": "MMR010012",
+      "Town_Id": "MMR010012701",
+      "Town_Eng_Name": "Thabeikkyin Town",
+      "Town_MMR_Name": "သပိတ်ကျင်း"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D002",
+      "Township_Id": "MMR010012",
+      "Town_Id": "MMR010012702",
+      "Town_Eng_Name": "Takaung Town",
+      "Town_MMR_Name": "တကောင်း"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D003",
+      "Township_Id": "MMR010013",
+      "Town_Id": "MMR010013701",
+      "Town_Eng_Name": "Kyaukse Town",
+      "Town_MMR_Name": "ကျောက်ဆည်"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D003",
+      "Township_Id": "MMR010014",
+      "Town_Id": "MMR010014701",
+      "Town_Eng_Name": "Sintgaing Town",
+      "Town_MMR_Name": "စဉ့်ကိုင်"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D003",
+      "Township_Id": "MMR010015",
+      "Town_Id": "MMR010015702",
+      "Town_Eng_Name": "Ku Me Town",
+      "Town_MMR_Name": "ကူမဲ"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D003",
+      "Township_Id": "MMR010015",
+      "Town_Id": "MMR010015701",
+      "Town_Eng_Name": "Myittha Town",
+      "Town_MMR_Name": "မြစ်သား"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D003",
+      "Township_Id": "MMR010016",
+      "Town_Id": "MMR010016701",
+      "Town_Eng_Name": "Tada-U Town",
+      "Town_MMR_Name": "တံတားဦး"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D004",
+      "Township_Id": "MMR010017",
+      "Town_Id": "MMR010017701",
+      "Town_Eng_Name": "Myingyan Town",
+      "Town_MMR_Name": "မြင်းခြံ"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D004",
+      "Township_Id": "MMR010017",
+      "Town_Id": "MMR010017702",
+      "Town_Eng_Name": "Si Mee Khon Town",
+      "Town_MMR_Name": "ဆီမီးခုံ"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D004",
+      "Township_Id": "MMR010018",
+      "Town_Id": "MMR010018701",
+      "Town_Eng_Name": "Taungtha Town",
+      "Town_MMR_Name": "တောင်သာ"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D004",
+      "Township_Id": "MMR010019",
+      "Town_Id": "MMR010019701",
+      "Town_Eng_Name": "Natogyi Town",
+      "Town_MMR_Name": "နွားထိုးကြီး"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D005",
+      "Township_Id": "MMR010020",
+      "Town_Id": "MMR010020701",
+      "Town_Eng_Name": "Kyaukpadaung Town",
+      "Town_MMR_Name": "ကျောက်ပန်းတောင်း"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D004",
+      "Township_Id": "MMR010021",
+      "Town_Id": "MMR010021701",
+      "Town_Eng_Name": "Ngazun Town",
+      "Town_MMR_Name": "ငါန်းဇွန်"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D005",
+      "Township_Id": "MMR010022",
+      "Town_Id": "MMR010022703",
+      "Town_Eng_Name": "Ngathayauk Town",
+      "Town_MMR_Name": "ငါ့သရောက်"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D005",
+      "Township_Id": "MMR010022",
+      "Town_Id": "MMR010022701",
+      "Town_Eng_Name": "Nyaung-U Town",
+      "Town_MMR_Name": "ညောင်ဦး"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D005",
+      "Township_Id": "MMR010022",
+      "Town_Id": "MMR010022702",
+      "Town_Eng_Name": "Bagan Town",
+      "Town_MMR_Name": "ပုဂံ"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D006",
+      "Township_Id": "MMR010023",
+      "Town_Id": "MMR010023701",
+      "Town_Eng_Name": "Yamethin Town",
+      "Town_MMR_Name": "ရမည်းသင်း"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D006",
+      "Township_Id": "MMR010024",
+      "Town_Id": "MMR010024701",
+      "Town_Eng_Name": "Pyawbwe Town",
+      "Town_MMR_Name": "ပျော်ဘွယ်"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D007",
+      "Township_Id": "MMR010028",
+      "Town_Id": "MMR010028701",
+      "Town_Eng_Name": "Meiktila Town",
+      "Town_MMR_Name": "မိတ္ထီလာ"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D007",
+      "Township_Id": "MMR010029",
+      "Town_Id": "MMR010029701",
+      "Town_Eng_Name": "Mahlaing Town",
+      "Town_MMR_Name": "မလှိုင်"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D007",
+      "Township_Id": "MMR010030",
+      "Town_Id": "MMR010030701",
+      "Town_Eng_Name": "Thazi Town",
+      "Town_MMR_Name": "သာစည်"
+    },
+    {
+      "Region_Id": "MMR010",
+      "District_Id": "MMR010D007",
+      "Township_Id": "MMR010031",
+      "Town_Id": "MMR010031701",
+      "Town_Eng_Name": "Wundwin Town",
+      "Town_MMR_Name": "ဝမ်းတွင်း"
+    }
+  ]
+}

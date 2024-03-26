@@ -1,0 +1,59 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Account {
+  AccountId        Int       @id @default(autoincrement())
+  CustomerName     String
+  CustomerPhone    Int
+  CustomerEmail    String
+  CustomerTownCode String
+  Balance          Int
+  createHistory    History[] @relation("Create")
+
+  senderHistory   History[] @relation("Sender")
+  receiverHistory History[] @relation("Receiver")
+  depositHistory  History[] @relation("Deposit")
+  withdrawHistory History[] @relation("Withdraw")
+}
+
+model History {
+  HistoryId Int      @id @default(autoincrement())
+  amount    Int?
+  Remark    String?
+  createdAt DateTime @default(now())
+  type      Type
+
+  userAccount   Account? @relation("Create", fields: [userAccountId], references: [AccountId])
+  userAccountId Int?
+
+  senderAccount   Account? @relation("Sender", fields: [senderAccountId], references: [AccountId])
+  senderAccountId Int?
+
+  receiverAccount   Account? @relation("Receiver", fields: [receiverAccountId], references: [AccountId])
+  receiverAccountId Int?
+
+  depositAccount   Account? @relation("Deposit", fields: [depositAccountId], references: [AccountId])
+  depositAccountId Int?
+
+  withdrawAccount   Account? @relation("Withdraw", fields: [withdrawAccountId], references: [AccountId])
+  withdrawAccountId Int?
+}
+
+enum Type {
+  CREATE
+  DEPOSIT
+  WITHDRAW
+  TRANSFER
+}
